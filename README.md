@@ -1,4 +1,4 @@
-# Car Management
+# Car Management System
 <img src="https://github.com/its-me-SurajKarche/Car_Management/blob/main/Car_HomePage.png"/>
 
 Welcome to the Car Management project! This Java Spring MVC application allows you to manage car-related information, including adding new car details to a database, searching for cars by various criteria, and more. It serves as a practical example of Spring MVC and JPA usage.
